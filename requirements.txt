@@ -4,7 +4,7 @@ certifi==2017.1.23
 cffi==1.9.1
 colorama==0.3.7
 colorlog==2.10.0
-cryptography==1.7.2
+cryptography==3.2
 future==0.16.0
 idna==2.2
 packaging==16.8
