@@ -1,6 +1,6 @@
 appdirs==1.4.0
 axel==0.0.7
-certifi==2017.1.23
+certifi==2022.12.7
 cffi==1.9.1
 colorama==0.3.7
 colorlog==2.10.0
